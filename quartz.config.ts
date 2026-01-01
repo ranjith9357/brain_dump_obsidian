@@ -1,5 +1,8 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import * as Component from "./quartz/components"
+import Profile from "./quartz/components/Profile"
+
 
 /**
  * Quartz 4 Configuration
